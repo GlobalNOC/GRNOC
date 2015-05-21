@@ -1,4 +1,5 @@
 A new line
 Changed file.
 
-fork line.
+changed a line. fork line.
+and added a line.
